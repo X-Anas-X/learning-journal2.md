@@ -28,7 +28,31 @@
 -  id attribute is used to uniquely identify that elementfrom other elements on the page.
 - Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 - The <div> element allows you to group a set of elements together in one block-level box.
-- 
+
+#### Chapter 17:
+- HTML5 got new elements that allow you to divide the parts of a page.
+- <nav> is used to contain the major navigational blocks on the site.
+ - Older browsers that do notknow the new HTML5 elements will automatically treat them as inline elements.
+  
+  
+##### Chapter 18:
+- Every website should be designed for the target audience.
+- content and design should be influenced by the goals of the users. 
+- Most web users do not read entire pages.
+- Grouping related pieces of information together can make a design easier to comprehend.
+- Wireframes helips you organizing the information. 
+- Visual hierarchy helps visitors understand what you are trying to tell them.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
