@@ -45,7 +45,7 @@
 
 
 ###### _JavaSccript:_
-####### Chapter 1:
+ **Chapter 1:**
 -  A script is a series of instructions that a computer can follow to achieve a goal.
 - To write a script you should know your goal and then list the tasks that need to be completed in order to achieve it. 
 - Each time the script runs it might only use a subset of all the instructions.
