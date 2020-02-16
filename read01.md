@@ -1,4 +1,4 @@
-# Introduction:
+# _HTML & CSS Introduction_
 - The book is devided into 3 sections:
 -  1 - HTML
   2 - CSS
@@ -43,6 +43,11 @@
 - Wireframes helips you organizing the information. 
 - Visual hierarchy helps visitors understand what you are trying to tell them.
 
+
+###### _JavaSccript:_
+####### Chapter 1:
+-  A script is a series of instructions that a computer can follow to achieve a goal.
+- 
 
 
 
